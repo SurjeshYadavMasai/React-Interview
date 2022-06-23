@@ -4,7 +4,7 @@
 
 ---
 <div>
-Learn to code and get hired with <a href="https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=reactjs-interview-questions">Zero To Mastery:</a>
+ Follow Me on LinkedIn <a href="https://www.linkedin.com/in/surjeshyadav/">Surjesh Yadav:</a>
 </div>
 ## Downloading PDF/Epub formats
 ### Table of Contents
